@@ -4,6 +4,10 @@ URL: https://bestiebackend.herokuapp.com/api/quizzes/{qid} \
 Method: GET \
 Auth Required: Yes (you have to create a [token](https://github.com/TwigXx1/bestiefy-api/blob/main/auth/create.md) first!)
 
+## Headers
+
+Authorization: Bearer ```{access_token}```
+
 ## Example Response 
 
 ```json
