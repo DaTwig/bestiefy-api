@@ -6,7 +6,7 @@ Auth Required: Yes (you have to create a [token](https://github.com/TwigXx1/best
 Content-Type: ```application/json``` 
 
 ## Body
-```
+```json
 {
     "qid": "{qid}",
     "name": "{name}",
