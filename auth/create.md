@@ -22,3 +22,6 @@ grant_type=refresh_token&refresh_token=APZUo0RHUER_uC5027I7MoTsWiBb4YKwub3weqwbD
     "project_id": "742299120802"
 }
 ```
+## Note
+
+**This is technically making a account as you just create a token and make a [quiz](https://github.com/TwigXx1/bestiefy-api/blob/main/quizzes/create.md) ,so have fun with it** 🤷‍♂️
