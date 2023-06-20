@@ -2,7 +2,6 @@
 
 URL: https://securetoken.googleapis.com/v1/token?key=AIzaSyD_rrjNxH9LfmKB0Y0uy7nSfz0zHvvM_Iw \
 Method: POST \
-Auth Required: No \
 Content-Type: ```application/x-www-form-urlencoded``` 
 
 ## Body
