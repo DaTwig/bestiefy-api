@@ -12,4 +12,4 @@ Authorization: Bearer ```{access_token}```
 
 You can find the UID in [here](https://github.com/TwigXx1/bestiefy-api/blob/main/quizzes/overview.md?plain=1#L136) 
 
-**Just make sure you have the Quiz ID!**
+**Just make sure you have a Quiz ID to view their UID!**
